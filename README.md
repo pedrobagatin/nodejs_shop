@@ -1,3 +1,7 @@
-# nodejs_shop
+# Node JS - Shop
 
-Following Maximilian Schwarzmuller course in Udemy  "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Demo)"
+<h2> Application created to learn Node JS:</h2>
+
+<p> <b>(09/09)</b> Currently application has 2 functionalities:</p>
+<ul><li>Add Product</li><li>Show Products added</li></ul>
+<p><b>Last learned concept:</b> PUG (html template retrieved dynamically)</p>
